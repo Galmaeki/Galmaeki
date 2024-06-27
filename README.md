@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Galmaeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galmaeki&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Galmaeki/Galmaeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
